@@ -1,0 +1,11 @@
+//array defining names with string
+
+var names:[String] = ["Riya","Rajat"]
+print(names)
+
+
+
+//array defining numbers with int 
+
+var numbers:[Int] = [2,23,15,10,14]
+print(numbers)
